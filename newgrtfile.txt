@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 20C5-A7C9
+
+ Directory of C:\Users\AMIT KUMAR GUPTA\Desktop\Java\Git
+
+07/07/2017  11:13 PM    <DIR>          .
+07/07/2017  11:13 PM    <DIR>          ..
+07/07/2017  10:28 PM               132 abc.txt
+07/07/2017  10:29 PM               413 amit.txt
+07/07/2017  11:13 PM                 0 newgrtfile.txt
+               3 File(s)            545 bytes
+               2 Dir(s)  21,923,348,480 bytes free
